@@ -1,0 +1,28 @@
+name: Harkom Records
+favicon: null
+layout_spectrum: 0.20872917352244258
+typography_spectrum: 0.1550031010992825
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.35089141433127224
+  lightness: 0.8765341779217124
+  saturation: 0.8552226100582629
+  rhythmicContrast: 0.48485353752039373
+purpose: []
